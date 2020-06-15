@@ -1,0 +1,143 @@
+.menu{
+    width:90%;
+    max-width: 700px;
+    clear: both;
+    float:right;
+    height: 75px;
+   
+}
+
+.menu ul{
+
+    display: inline;
+    list-style-type: none;
+   
+   
+}
+
+.menu ul li a{
+    float:left;
+    padding: 10px;
+    margin-right: 5px;
+    text-decoration: none;
+    color: black;
+   
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+.welcome{
+    clear: both;
+    background-image: url('images/Mask\ Group\ 1.png');
+    background-size: cover;
+    opacity: 1;
+    background-repeat: no-repeat;
+   height: 100vh;
+    width:99%;
+    max-width:1714px;
+    margin:auto;
+  
+
+}
+
+.inner {
+    color:white;
+    position: relative;
+    top:80%;
+    text-align: center;
+   line-height: 15px;
+  }
+   
+.inner p{
+    background-color: aliceblue;
+     width: 200px;
+     padding: 2px;
+     margin-left:30%;
+      color:black;
+      font-size: x-small; 
+      font-weight: bold;
+      
+
+
+}
+
+.main{
+    height:80px;
+    width:100%;
+    clear: both;
+    position: fixed;
+   top:0px;
+    background-color: white;
+    
+}
+
+/*numbers*/
+
+.numbers p{
+    font-size: 26px;
+    line-height: 3px;
+}
+.numbers ul{
+    width: 1000px;
+    margin:auto;
+    color: #0C1640;
+    
+    
+
+}
+
+.numbers ul li{
+display: inline;
+float: left;
+margin-right: 2px;
+width:15%;
+max-width: 160px;
+text-align: center;
+
+
+}
+
+
+/*about*/
+
+.about{
+    clear: both;
+    width: 600px;
+    height: 50vh;
+    background-color: rgb(9, 28, 64, o.3);
+    margin-left: 10px;
+   
+}
+
+.about ul li{
+    list-style-type: none;
+    text-align: left;
+}
+
+
+#tekst2 p {
+    width: 300px;
+    text-align: left;
+}
+#tekst2{
+    background-color: white;
+}
+#more{
+
+    width: 300px;
+    text-align: left;
+}
+
+.aboutTekst{
+    background-color: rgb(128, 128, 128, 0.3);
+    padding: 20px;
+}
+
+button:hover{
+    border: 1px solid grey;
+}
